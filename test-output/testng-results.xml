@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-30T19:54:41 IST" name="Suite" finished-at="2021-12-30T19:54:41 IST" duration-ms="71">
+    <groups>
+      <group name="smokeSuite">
+        <method signature="DummyTest.night()[pri:0, instance:crm.com.sample1.DummyTest@7e5afaa6]" name="night" class="crm.com.sample1.DummyTest"/>
+      </group> <!-- smokeSuite -->
+    </groups>
+    <test started-at="2021-12-30T19:54:41 IST" name="Test" finished-at="2021-12-30T19:54:41 IST" duration-ms="71">
+      <class name="crm.com.sample1.DummyTest">
+        <test-method signature="night()[pri:0, instance:crm.com.sample1.DummyTest@7e5afaa6]" started-at="2021-12-30T19:54:41 IST" name="night" finished-at="2021-12-30T19:54:41 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- night -->
+      </class> <!-- crm.com.sample1.DummyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
