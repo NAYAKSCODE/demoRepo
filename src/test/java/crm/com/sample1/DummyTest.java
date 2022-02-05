@@ -13,5 +13,6 @@ public class DummyTest {
 	public void night()
 	{
 		System.out.println(" good night india");
+		System.out.println("jay maa saraswati");
 	}
 }
